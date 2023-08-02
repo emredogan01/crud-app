@@ -38,4 +38,4 @@ create read update delete
 - - çaloşan fonksiyon kitaplar dizisini güncellesin (eski elemanı çıkarıp güncel halini koysun )
 - - güncellerken isim ve date'i değiştir
 
-![](screen.gif)
+![](./src/screen.gif)
